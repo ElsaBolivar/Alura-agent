@@ -1,0 +1,32 @@
+Fecha,Producto,Categoria,Cantidad,PrecioUnitario,Total,Region
+2025-01-05,Camisa Casual,Ropa Hombre,12,18.50,222.00,San Jose
+2025-01-08,Vestido Floral,Ropa Mujer,7,32.00,224.00,Heredia
+2025-01-10,Zapatos Deportivos,Calzado,5,45.00,225.00,Alajuela
+2025-01-15,Pantalon Jean,Ropa Hombre,9,28.00,252.00,San Jose
+2025-01-20,Blusa Elegante,Ropa Mujer,15,22.00,330.00,Cartago
+2025-02-02,Chaqueta Impermeable,Ropa Unisex,4,55.00,220.00,San Jose
+2025-02-05,Sandalias,Calzado,20,15.00,300.00,Guanacaste
+2025-02-11,Camiseta Basica,Ropa Unisex,30,10.00,300.00,San Jose
+2025-02-18,Falda Larga,Ropa Mujer,6,26.00,156.00,Heredia
+2025-02-25,Tenis Running,Calzado,8,50.00,400.00,Alajuela
+2025-03-01,Suéter de Lana,Ropa Unisex,10,35.00,350.00,Cartago
+2025-03-07,Short Deportivo,Ropa Hombre,14,14.00,196.00,San Jose
+2025-03-12,Bolso de Mano,Accesorios,9,40.00,360.00,Heredia
+2025-03-19,Gorra,Accesorios,25,8.00,200.00,Guanacaste
+2025-03-28,Traje de Baño,Ropa Mujer,11,24.00,264.00,Puntarenas
+2025-04-03,Chaleco,Ropa Hombre,6,30.00,180.00,San Jose
+2025-04-09,Cinturon de Cuero,Accesorios,13,12.00,156.00,Alajuela
+2025-04-15,Botas de Cuero,Calzado,5,60.00,300.00,Cartago
+2025-04-22,Camisa de Lino,Ropa Hombre,8,26.00,208.00,San Jose
+2025-04-30,Bufanda,Accesorios,17,9.00,153.00,Heredia
+2025-05-06,Jeans Skinny,Ropa Mujer,10,29.00,290.00,San Jose
+2025-05-12,Zapatos Formales,Calzado,4,48.00,192.00,Guanacaste
+2025-05-19,Sudadera,Ropa Unisex,16,20.00,320.00,Cartago
+2025-05-27,Reloj,Accesorios,3,75.00,225.00,San Jose
+2025-06-02,Vestido de Noche,Ropa Mujer,5,65.00,325.00,Heredia
+2025-06-10,Camisa Cuadros,Ropa Hombre,9,19.00,171.00,Alajuela
+2025-06-18,Sandalias de Playa,Calzado,22,11.00,242.00,Puntarenas
+2025-06-25,Pulsera,Accesorios,19,6.00,114.00,San Jose
+2025-07-03,Polo Deportivo,Ropa Hombre,12,17.00,204.00,Cartago
+2025-07-11,Falda Corta,Ropa Mujer,8,18.00,144.00,San Jose
+2025-07-18,Tenis Casuales,Calzado,10,42.00,420.00,Heredia
