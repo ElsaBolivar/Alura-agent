@@ -35,7 +35,7 @@ Usuario → Terminal (input) → agent.py → LangChain → Cohere (LLM) → Res
 - **Pandas** – lectura y procesamiento del CSV
 - **LangChain** – orquestación del agente
 - **Cohere** (`command-a-plus-05-2026`) – modelo de lenguaje
-- **Oracle Cloud Infrastructure (OCI Compute)** – despliegue
+- **PythonAnywhere** – despliegue en la nube
 
 ## ▶️ Instrucciones para ejecutar el proyecto
 
@@ -69,13 +69,20 @@ Usuario → Terminal (input) → agent.py → LangChain → Cohere (LLM) → Res
 **Pregunta:** ¿Cuáles recomiendas que sean las siguientes compras?
 **Respuesta:** Basado en lo que se está vendiendo mejor, sugeriría reponer la Camiseta Básica (la más vendida en unidades y total), las Sandalias (gran volumen y buen total) y los Tenis Running (el total más alto). También vale la pena considerar la Gorra, que se vende mucho y es barata, y accesorios de alto margen como el Reloj para impulsar la rentabilidad.
 
-## ☁️ Despliegue en OCI
+## ☁️ Despliegue en la nube
 
-El agente fue desplegado y ejecutado en una instancia **OCI Compute (Always
-Free – Ubuntu)**. Evidencia del despliegue:
+El agente fue desplegado y ejecutado en **PythonAnywhere** (plan gratuito
+Beginner), una plataforma cloud para aplicaciones Python. Se eligió esta
+plataforma en lugar de OCI Compute por temas de disponibilidad en el
+proceso de registro; el propio challenge indica que las tecnologías
+sugeridas son recomendaciones y pueden sustituirse por otras equivalentes.
 
-- Captura de pantalla: `deploy_evidence.png` (agregar en el repositorio)
-- IP pública / instancia: _agregar aquí_
+- **URL de la instancia**: `www.pythonanywhere.com/user/elsabolivar/consoles/...`
+- **Evidencia**: ver `deploy_evidence.jpeg` en este repositorio — captura de
+  pantalla mostrando la instalación de dependencias, la carga del
+  documento y una conversación completa con el agente corriendo en la nube.
+- La API key se maneja de forma segura mediante un archivo de variables de
+  entorno (`clave.sh`), evitando exponerla en la terminal o en capturas.
 
 ## 👤 Autor
 
